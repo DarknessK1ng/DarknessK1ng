@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DarknessK1ng
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning C++ and Java
